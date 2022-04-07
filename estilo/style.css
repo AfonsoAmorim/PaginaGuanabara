@@ -3,3 +3,11 @@
 body {
     background-color: #c5ebd6;
 }
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
