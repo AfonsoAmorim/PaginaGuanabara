@@ -24,6 +24,8 @@ header > h1 {
     
 }
 
+
+
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 55px;
@@ -35,7 +37,24 @@ nav{
     
 }
 
+article{
+    background-color: rgb(53, 215, 131);
+}
 
+#p1{
+    font-size: 20px;
+    font-style: italic;
+    
+}
+.blococentral{
+    text-align: center;
+    align-items: center;
+    
+}
+#p2{
+    text-align: center;
+    text-indent: 50px;
+}
 
 h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -52,7 +71,16 @@ h3{
 main {
     background-color: white;
     width: 100%;
+   
     
+}
+
+main p {
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 1.1em;
+    line-height: 2em;
 }
 
 
