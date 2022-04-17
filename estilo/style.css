@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(225, 195, 210);
+    background-color: rgb(121, 146, 205);
 }
 
 header{
@@ -34,11 +34,20 @@ h1{
 nav{
     text-align: center;
     padding: 25px;
+    background-color: rgb(230, 212, 20);
+    
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(209, 0, 0);
+    font-size: 21px;
     
 }
 
 article{
-    background-color: rgb(53, 215, 131);
+    background-color: rgb(121, 146, 205);
 }
 
 #p1{
@@ -75,6 +84,19 @@ main {
     
 }
 
+#primeiraimg{
+    border: 3px solid red;
+}
+
+iframe{
+    border: 2px solid rgb(255, 0, 179);
+}
+ul, li{
+    text-align: center;
+    border: 2px solid greenyellow;
+    margin: 1%;
+}
+
 main p {
     margin: 15px 0px;
     text-align: justify;
@@ -89,4 +111,9 @@ footer{
     color: white;
     text-align: center;
     padding: 15px;
+}
+
+#imgwoman{
+    
+    border: 1px solid pink;
 }
